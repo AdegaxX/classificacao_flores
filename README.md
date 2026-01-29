@@ -13,7 +13,6 @@ Este projeto tem como objetivo disponibilizar um **conjunto de dados de imagens 
 
 O dataset inclui imagens originais e versões **aumentadas artificialmente (data augmentation)**, permitindo melhorar a generalização de modelos treinados com poucos dados.
 
----
 
 ## Estrutura do Projeto
 
@@ -36,7 +35,7 @@ A organização dos arquivos segue o padrão abaixo:
 - Cada **pasta representa uma classe de flor**
 - As imagens com sufixo `_augX` são versões aumentadas da imagem original
 
----
+
 
 ## Classes de Flores
 
@@ -58,7 +57,7 @@ O dataset contém imagens das seguintes espécies:
 - **Phlox paniculata**
 - **Ranunculus acris**
 
----
+
 
 ## Data Augmentation
 
@@ -79,7 +78,7 @@ image_XXXX_aug2.jpg   -> variação 2
 
 ```
 
----
+
 
 ## Objetivo de Uso
 
@@ -95,7 +94,7 @@ Compatível com bibliotecas como:
 - PyTorch
 - Scikit-learn (com extração de features)
 
----
+
 
 ## Como Utilizar
 
@@ -126,7 +125,7 @@ Ou então (escolhendo o modelo treinado e os dados):
 ````
 
 
----
+
 
 ## Observações e resultados
 
@@ -140,14 +139,14 @@ Matriz de confusão do modelo mobilenet:
    <img src="avaliacao/confusion_matrix.png" width="500px" alt="acuracia">
 </p>
 
----
+
 
 ## Licença
 
 Este projeto é destinado a fins **educacionais e de pesquisa**.
 Caso utilize em trabalhos acadêmicos ou projetos públicos, cite a fonte adequadamente.
 
----
+
 
 ## Autor
 
@@ -155,3 +154,4 @@ Projeto desenvolvido para estudos em **Visão Computacional e Aprendizado de Má
 
 **Turma CD VI - 2025**
 Projeto ItapajéBio (Classificação de Flora e Sons de Pássaros)
+
