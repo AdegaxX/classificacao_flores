@@ -3,7 +3,7 @@
 
 ## Descrição do Projeto
 
-<!-- Mensagem centralizada -->
+<!-- Imagem centralizada -->
 <p align="center">
    <img src="dados/flores_train/Aconitum variegatum/image_06397.jpg" width="150px" alt="flor_1_treino">
    <img src="dados/flores_train/Camellia sasanqua/image_07594.jpg" width="150px" alt="flor_2_treino">
@@ -128,11 +128,17 @@ Ou então (escolhendo o modelo treinado e os dados):
 
 ---
 
-## Observações
+## Observações e resultados
 
 * O dataset está organizado apenas para **treinamento**
 * Caso necessário, recomenda-se criar subconjuntos de **validação** e **teste**
 * Verifique o balanceamento entre as classes antes do treinamento
+
+<!-- acuracia centralizada -->
+Matriz de confusão do modelo mobilenet:
+<p align="center">
+   <img src="avaliacao/confusion_matrix.png" width="500px" alt="acuracia">
+</p>
 
 ---
 
@@ -146,3 +152,6 @@ Caso utilize em trabalhos acadêmicos ou projetos públicos, cite a fonte adequa
 ## Autor
 
 Projeto desenvolvido para estudos em **Visão Computacional e Aprendizado de Máquina** na disciplina de **aprendizado profundo** da Universidade Federal do Ceará, ministrada pelo professor Dr. Julio César Santos dos Anjos, juntamente com seus discentes.
+
+**Turma CD VI - 2025**
+Projeto ItapajéBio (Classificação de Flora e Sons de Pássaros)
