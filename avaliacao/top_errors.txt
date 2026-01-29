@@ -1,0 +1,9 @@
+Top erros (mais confiantes primeiro)
+Formato: prob_pred | true -> pred | prob_true | caminho
+
+0.4406 | Antirrhinum australe -> Cyclamen cyprium | 0.0611 | C:\Data_Science\Aulas\6_Semestre\Deep Learning\Code_final_flores\dados\flores_validation\Antirrhinum australe\Antirrhinum_australe.38.jpg
+0.4398 | Camellia sasanqua -> Digitalis thapsi | 0.1363 | C:\Data_Science\Aulas\6_Semestre\Deep Learning\Code_final_flores\dados\flores_validation\Camellia sasanqua\Camelia_February1.jpg
+0.3113 | Digitalis thapsi -> Antirrhinum australe | 0.1926 | C:\Data_Science\Aulas\6_Semestre\Deep Learning\Code_final_flores\dados\flores_validation\Digitalis thapsi\digi3.jpg
+0.2681 | Antirrhinum australe -> Digitalis thapsi | 0.1361 | C:\Data_Science\Aulas\6_Semestre\Deep Learning\Code_final_flores\dados\flores_validation\Antirrhinum australe\Antirrhinumaustrale.jpg
+0.1958 | Eschscholzia caespitosa -> Ranunculus acris | 0.0869 | C:\Data_Science\Aulas\6_Semestre\Deep Learning\Code_final_flores\dados\flores_validation\Eschscholzia caespitosa\caes1.jpg
+0.1629 | Phlox paniculata -> Eschscholzia caespitosa | 0.1010 | C:\Data_Science\Aulas\6_Semestre\Deep Learning\Code_final_flores\dados\flores_validation\Phlox paniculata\phlox.jpg
